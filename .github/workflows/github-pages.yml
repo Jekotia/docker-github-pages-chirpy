@@ -1,4 +1,4 @@
-name: Build & Push jekotia/github-pages-chirpy
+name: Build & Push
 
 # Configures this workflow to run every time a tag is pushed.
 on:
